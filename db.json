@@ -1,6 +1,5 @@
 {
     "weapons": [
-        
         {
             "key": "52gal",
             "aliases": [
@@ -26,7 +25,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "megaphone51",
@@ -58,12 +58,12 @@
             },
             "main": "52gal",
             "sub": {
-                "key": "curlingbomb",
                 "aliases": [],
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "suminagasheet",
@@ -100,7 +100,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "kyuinki",
@@ -137,7 +138,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "teioika",
@@ -174,7 +176,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "ultrahanko",
@@ -211,7 +214,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "megaphone51",
@@ -248,7 +252,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "ultrashot",
@@ -285,7 +290,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "suminagasheet",
@@ -322,7 +328,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrashot",
@@ -359,7 +366,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "kyuinki",
@@ -396,9 +404,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "amefurashi",
                 "aliases": [],
                 "name": {
@@ -433,7 +442,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "hopsonar",
@@ -470,7 +480,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "energystand",
@@ -507,7 +518,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "decoy",
@@ -544,7 +556,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -581,7 +594,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrashot",
@@ -618,7 +632,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "kanitank",
@@ -655,7 +670,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "nicedama",
@@ -692,7 +708,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "sameride",
@@ -729,7 +746,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "nicedama",
@@ -766,7 +784,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kanitank",
@@ -803,7 +822,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -840,7 +860,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "megaphone51",
@@ -877,7 +898,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "jetpack",
@@ -914,7 +936,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrashot",
@@ -951,7 +974,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -988,7 +1012,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "greatbarrier",
@@ -1025,7 +1050,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrashot",
@@ -1062,7 +1088,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "decoy",
@@ -1099,7 +1126,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "greatbarrier",
@@ -1136,7 +1164,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "ultra_chakuchi",
@@ -1173,7 +1202,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "hopsonar",
@@ -1210,7 +1240,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "teioika",
@@ -1247,7 +1278,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -1284,7 +1316,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -1320,7 +1353,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -1357,7 +1391,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "tripletornado",
@@ -1394,7 +1429,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "jetpack",
@@ -1431,9 +1467,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "kyuinki",
                 "aliases": [],
                 "name": {
@@ -1468,7 +1505,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "megaphone51",
@@ -1505,7 +1543,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "nicedama",
@@ -1542,7 +1581,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "sameride",
@@ -1579,7 +1619,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "energystand",
@@ -1616,7 +1657,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "greatbarrier",
@@ -1653,7 +1695,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "kanitank",
@@ -1690,7 +1733,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -1727,7 +1771,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "hopsonar",
@@ -1764,7 +1809,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "decoy",
@@ -1801,7 +1847,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "megaphone51",
@@ -1838,7 +1885,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -1875,7 +1923,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "nicedama",
@@ -1912,7 +1961,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "ultrashot",
@@ -1949,7 +1999,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kanitank",
@@ -1986,7 +2037,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "ultra_chakuchi",
@@ -2023,7 +2075,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kanitank",
@@ -2060,7 +2113,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "sameride",
@@ -2097,7 +2151,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "shokuwander",
@@ -2134,7 +2189,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "energystand",
@@ -2171,7 +2227,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "sameride",
@@ -2208,7 +2265,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -2245,7 +2303,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrashot",
@@ -2282,7 +2341,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "energystand",
@@ -2319,7 +2379,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "decoy",
@@ -2355,7 +2416,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "greatbarrier",
@@ -2392,7 +2454,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "greatbarrier",
@@ -2429,7 +2492,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "teioika",
@@ -2466,7 +2530,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "missile",
@@ -2503,7 +2568,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "suminagasheet",
@@ -2540,7 +2606,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "kyuinki",
@@ -2577,7 +2644,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "amefurashi",
@@ -2615,7 +2683,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "hopsonar",
@@ -2653,7 +2722,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "missile",
@@ -2690,7 +2760,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -2727,7 +2798,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "amefurashi",
@@ -2764,7 +2836,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -2801,7 +2874,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "megaphone51",
@@ -2838,7 +2912,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "ultrahanko",
@@ -2875,7 +2950,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "greatbarrier",
@@ -2912,7 +2988,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "jetpack",
@@ -2949,7 +3026,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -2986,7 +3064,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "missile",
@@ -3023,7 +3102,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -3061,9 +3141,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "kanitank",
                 "aliases": [],
                 "name": {
@@ -3098,7 +3179,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -3135,7 +3217,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "megaphone51",
@@ -3172,7 +3255,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "decoy",
@@ -3209,7 +3293,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "hopsonar",
@@ -3246,7 +3331,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "teioika",
@@ -3283,7 +3369,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "hopsonar",
@@ -3320,7 +3407,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "teioika",
@@ -3356,7 +3444,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kyuinki",
@@ -3393,7 +3482,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "amefurashi",
@@ -3430,7 +3520,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "energystand",
@@ -3467,7 +3558,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "missile",
@@ -3504,7 +3596,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -3541,7 +3634,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kyuinki",
@@ -3578,7 +3672,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "tripletornado",
@@ -3615,7 +3710,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kyuinki",
@@ -3652,7 +3748,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "tripletornado",
@@ -3689,7 +3786,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "greatbarrier",
@@ -3726,7 +3824,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "shokuwander",
@@ -3763,7 +3862,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -3800,7 +3900,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "shokuwander",
@@ -3836,7 +3937,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "amefurashi",
@@ -3873,7 +3975,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "ultra_chakuchi",
@@ -3910,7 +4013,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "amefurashi",
@@ -3947,7 +4051,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "teioika",
@@ -3984,9 +4089,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "jetpack",
                 "aliases": [],
                 "name": {
@@ -4021,7 +4127,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "energystand",
@@ -4058,7 +4165,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "sameride",
@@ -4095,7 +4203,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "hopsonar",
@@ -4131,7 +4240,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "tripletornado",
@@ -4168,7 +4278,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "nicedama",
@@ -4205,7 +4316,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "ultrashot",
@@ -4242,7 +4354,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "hopsonar",
@@ -4279,7 +4392,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "teioika",
@@ -4316,7 +4430,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "energystand",
@@ -4353,7 +4468,8 @@
                 "name": {
                     "en_US": "Splat Bomb",
                     "ja_JP": "スプラッシュボム"
-                }
+                },
+                "buff":"Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "kanitank",
@@ -4390,7 +4506,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "nicedama",
@@ -4427,7 +4544,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "suminagasheet",
@@ -4464,7 +4582,8 @@
                 "name": {
                     "en_US": "Fizzy Bomb",
                     "ja_JP": "タンサンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "jetpack",
@@ -4501,7 +4620,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "kyuinki",
@@ -4538,7 +4658,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "amefurashi",
@@ -4575,7 +4696,8 @@
                 "name": {
                     "en_US": "Suction Bomb",
                     "ja_JP": "キューバンボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultra_chakuchi",
@@ -4612,7 +4734,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "hopsonar",
@@ -4649,7 +4772,8 @@
                 "name": {
                     "en_US": "Burst Bomb",
                     "ja_JP": "クイックボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -4686,9 +4810,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "greatbarrier",
                 "aliases": [],
                 "name": {
@@ -4723,7 +4848,8 @@
                 "name": {
                     "en_US": "Angle Shooter",
                     "ja_JP": "ラインマーカー"
-                }
+                },
+                "buff": "Increases travel speed, range and tracking duration"
             },
             "special": {
                 "key": "greatbarrier",
@@ -4760,9 +4886,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "ultra_chakuchi",
                 "aliases": [],
                 "name": {
@@ -4797,7 +4924,8 @@
                 "name": {
                     "en_US": "Squid Beakon",
                     "ja_JP": "ジャンプビーコン"
-                }
+                },
+                "buff": "Gives the effect of Quick Super Jump to any player jumping to the Squid Beakon"
             },
             "special": {
                 "key": "kyuinki",
@@ -4834,7 +4962,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "ultrashot",
@@ -4871,7 +5000,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "tripletornado",
@@ -4908,7 +5038,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "tripletornado",
@@ -4945,7 +5076,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "jetpack",
@@ -4982,7 +5114,8 @@
                 "name": {
                     "en_US": "Ink Mine",
                     "ja_JP": "トラップ"
-                }
+                },
+                "buff": "Increases explosion radius and tracking duration"
             },
             "special": {
                 "key": "sameride",
@@ -5019,7 +5152,8 @@
                 "name": {
                     "en_US": "Torpedo",
                     "ja_JP": "トーピード"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "suminagasheet",
@@ -5056,7 +5190,8 @@
                 "name": {
                     "en_US": "Autobomb",
                     "ja_JP": "ロボットボム"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
             "special": {
                 "key": "ultrahanko",
@@ -5093,7 +5228,8 @@
                 "name": {
                     "en_US": "Point Sensor",
                     "ja_JP": "ポイントセンサー"
-                }
+                },
+                "buff":"Increases throwing range, air travel velocity and tracking duration"
             },
             "special": {
                 "key": "hopsonar",
@@ -5130,7 +5266,8 @@
                 "name": {
                     "en_US": "Curling Bomb",
                     "ja_JP": "カーリングボム"
-                }
+                },
+                "buff": "Increases travel speed"
             },
             "special": {
                 "key": "missile",
@@ -5167,7 +5304,8 @@
                 "name": {
                     "en_US": "Splash Wall",
                     "ja_JP": "スプラッシュシールド"
-                }
+                },
+                "buff": "Increases maximum HP"
             },
             "special": {
                 "key": "sameride",
@@ -5203,9 +5341,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "megaphone51",
                 "aliases": [],
                 "name": {
@@ -5240,9 +5379,10 @@
                 "name": {
                     "en_US": "Toxic Mist",
                     "ja_JP": "ポイズンミスト"
-                }
+                },
+                "buff": "Increases throwing range and air travel velocity"
             },
-            "special": {
+            "special": {    
                 "key": "megaphone51",
                 "aliases": [],
                 "name": {
@@ -5277,7 +5417,8 @@
                 "name": {
                     "en_US": "Sprinkler",
                     "ja_JP": "スプリンクラー"
-                }
+                },
+                "buff": "Increases duration of high-power and mid-power phase"
             },
             "special": {
                 "key": "decoy",
@@ -5289,7 +5430,132 @@
             },
             "reskin_of": "tristringer_collabo"
         }
-    
+    ],
+    "abilities": [
+        {
+            "name": "Intensify Action",
+            "exclusive": false,
+            "image-code": "Action_Up.png"
+        },
+        {
+            "name": "Run Speed Up",
+            "exclusive": false,
+            "image-code": "HumanMove_Up.png"
+        },
+        {
+            "name": "Ink Saver (Sub)",
+            "exclusive": false,
+            "image-code": "SubInk_Save.png"
+        },
+        {
+            "name": "Sub Resistance Up",
+            "exclusive": false,
+            "image-code": "SubEffect_Reduction.png"
+        },
+        {
+            "name": "Ink Saver (Main)",
+            "exclusive": false,
+            "image-code": "MainInk_Save.png"
+        },
+        {
+            "name": "Quick Super Jump",
+            "exclusive": false,
+            "image-code": "JumpTime_Save.png"
+        },
+        {
+            "name": "Comeback",
+            "exclusive": true,
+            "image-code": "ComeBack.png"
+        },
+        {
+            "name": "Ninja Squid",
+            "exclusive": true,
+            "image-code": "SquidMoveSpatter_Reduction.png"
+        },
+        {
+            "name": "Ink Recovery Up",
+            "exclusive": false,
+            "image-code": "InkRecovery_Up.png"
+        },
+        {
+            "name": "Thermal Ink",
+            "exclusive": true,
+            "image-uel": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Ability_Thermal_Ink.png/96px-S3_Ability_Thermal_Ink.png"
+        },
+        {
+            "name": "Quick Respawn",
+            "exclusive": false,
+            "image-code": "RespawnTime_Save.png"
+        },
+        {
+            "name": "Sub Power Up",
+            "exclusive": false,
+            "image-code": "SubSpec_Up.png"
+        },
+        {
+            "name": "Swim Speed Up",
+            "exclusive": false,
+            "image-code": "SquidMove_Up.png"
+        },
+        {
+            "name": "Last-Ditch Effort",
+            "exclusive": true,
+            "image-code": "EndAllUp.png"
+        },
+        {
+            "name": "Tenacity",
+            "exclusive": true,
+            "image-url": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/6/60/S3_Ability_Tenacity.png/96px-S3_Ability_Tenacity.png"
+        },
+        {
+            "name": "Ink Resistance Up",
+            "exclusive": false,
+            "image-code": "OpInkEffect_Reduction.png"
+        },
+        {
+            "name": "Special Saver",
+            "exclusive": false,
+            "image-code": "RespawnSpecialGauge_Save.png"
+        },
+        {
+            "name": "Object Shredder",
+            "exclusive": true,
+            "image-code": "ObjectEffect_Up.png"
+        },
+        {
+            "name": "Special Charge Up",
+            "exclusive": false,
+            "image-code": "SpecialIncrease_Up.png"
+        },
+        {
+            "name": "Special Power Up",
+            "exclusive": false,
+            "image-code": "SpecialSpec_Up.png"
+        },
+        {
+            "name": "Respawn Punisher",
+            "exclusive": true,
+            "image-code": "Exorcist.png"
+        },
+        {
+            "name": "Stealth Jump",
+            "exclusive": true,
+            "image-url": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/5/5a/S3_Ability_Stealth_Jump.png/96px-S3_Ability_Stealth_Jump.png"
+        },
+        {
+            "name": "Opening Gambit",
+            "exclusive": true,
+            "image-code": "StartAllUp.png"
+        },
+        {
+            "name": "Haunt",
+            "exclusive": true,
+            "image-url": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/2/2b/S3_Ability_Haunt.png/96px-S3_Ability_Haunt.png"
+        },
+        {
+            "name": "Drop Roller",
+            "exclusive": true,
+            "image-code": "SomersaultLanding.png"
+        }
     ]
-
 }
