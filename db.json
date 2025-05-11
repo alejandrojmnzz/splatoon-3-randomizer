@@ -967,7 +967,7 @@
                 "en_US": "Tentatek Splattershot",
                 "ja_JP": "スプラシューターコラボ"
             },
-            "main": "sshooter",
+            "main": "hooter",
             "sub": {
                 "key": "splashbomb",
                 "aliases": [],
@@ -5480,7 +5480,7 @@
         {
             "name": "Thermal Ink",
             "exclusive": true,
-            "image-uel": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Ability_Thermal_Ink.png/96px-S3_Ability_Thermal_Ink.png"
+            "image-url": "https://cdn.wikimg.net/en/splatoonwiki/images/thumb/3/33/S3_Ability_Thermal_Ink.png/96px-S3_Ability_Thermal_Ink.png"
         },
         {
             "name": "Quick Respawn",

@@ -1,18 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="styles.css">
-        <script src="index.js" defer></script>
-        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-        <script src="index.js" type="module"></script>      
-        <title>Splatoon 3 Randomizer</title>
-    </head>
-    <body>
-        <h1>Hola</h1>
-        <button id="randomize-button">Randomize</button>
-        <div id="weapon-image"></div>
-        <div id="ability-image"></div>
-    </body>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+        crossorigin="anonymous"></script>
+    <script src="index.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="index.js" type="module"></script>
+    <title>Splatoon 3 Randomizer</title>
+</head>
+
+<body class="body">
+    <div class="container">
+            <div>
+            <div class="form-check form-switch d-flex justify-content-end mt-2">
+                <input class="form-check-input" type="checkbox" role="switch" id="switchCheckDefault">
+                <label class="form-check-label exclude-button ms-2" for="switchCheckDefault">Include exclusive
+                    abilities</label>
+            </div>
+            <div class="d-flex justify-content-center">
+                <div class="weapon-name text-light d-flex align-items-center">
+                    <p id="weapon-name" class="m-0"></p>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-center">
+                <div class="d-flex justify-content-center weapon-box">
+                    <div class="name-mark"></div>
+                    <div id="weapon-image"></div>
+                    <div class="d-flex flex-column justify-content-center">
+                        <div class="d-flex align-items-center">
+                            <div id="sub-image" class="atribute-image"></div>
+                            <p id="sub-name" class="atribute-name"></p>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <div id="special-image" class="atribute-image"></div>
+                            <p id="special-name" class="atribute-name"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-center">
+                <div id="ability-image" class="d-flex"></div>
+            </div>
+            <div id="buff-description" class="d-flex justify-content-center"> </div>
+
+            <div class="d-flex justify-content-center">
+                <!-- <div class="d-flex justify-content-between w-25">
+                    <p id="ability-name" class="m-0"></p>
+                    <p class="ability-name">AAAAAAAA</p>
+                </div> -->
+                <button id="randomize-button" class="btn">Randomize</button>
+            </div>
+        </div>
+
+
+    </div>
+</body>
+
 </html>

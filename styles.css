@@ -1,3 +1,131 @@
-body {
-    background-color: blueviolet;
+@font-face {
+    font-family: 'SplatoonFont';
+    src: url('fonts/BlitzMain.otf');
+}
+
+@font-face {
+    font-family: 'SplatoonFontBold';
+    src: url('fonts/BlitzBold.otf');
+}
+
+@media (width <= 600px) {
+    .weapon-box {
+        width: 100%;
+        height: 200px;
+    }
+    #weapon-image {
+        width: 140px;
+        height: 140px;
+    }
+    #weapon-image > img {
+        width: 140px;
+        height: 140px;
+    }
+
+     .atribute-image > img {
+        width: 40px;
+        height: 40px;
+    }
+    .atribute-name {
+        width: 180px !important; 
+    }
+}
+
+.body {
+    background-image: url('https://catwithmonocle.com/wp-content/uploads/2022/09/splatoon3-pattern-02-1920x1080-1.jpg');
+}
+
+.weapon-box {
+    position: relative;
+    background-color: rgb(44, 44, 44);
+    border-radius: 40px;
+    padding: 30px;    
+}
+
+.name-mark {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    background-color: rgb(35, 35, 35);
+    z-index: -1;
+}
+
+p {
+    font-family: 'SplatoonFontBold', sans-serif;
+}
+
+#ability-name {
+    font-size: 20px;
+    color: rgb(167, 167, 167);
+}
+
+.weapon-name {
+    background-color:rgb(35, 35, 35);
+    width: 34.4rem;
+    height: 60px;
+    padding-left: 10px;
+    margin-bottom: 0;
+    font-size: 30px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 50px;
+
+}
+
+#weapon-image {
+    background-color: rgb(183, 183, 183);
+    border-radius: 50px;
+    margin-right: 30px;
+}
+
+.atribute-image {
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.atribute-name {
+    font-family: 'SplatoonFont', sans-serif;
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-bottom: 0;
+    width: 200px;
+}
+.plus {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+}
+
+.exclude-button {
+    font-family: 'SplatoonFont', sans-serif;
+    color: white;
+}
+
+#randomize-button {
+    height: 70px;
+    font-size: 40px;
+    font-family: 'SplatoonFont', sans-serif;
+    color: white;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 0px 20px;
+    background-color: rgb(111, 28, 117);
+}
+
+.buff-title {
+
+    color: white;
+    font-size: 22px;
+    margin: 0;
+}
+
+.buff {
+
+    color: rgb(176, 176, 176);
+    font-size: 15px;
 }
