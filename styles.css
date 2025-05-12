@@ -15,6 +15,7 @@
         min-width: auto !important;
         max-width: auto !important;
         font-size: 22px !important;
+        padding-left: 6px !important;
     }
     .weapon-box {
         width: 100%;
@@ -166,3 +167,7 @@ p {
 #buff-description {
     width: 520px;
 }
+
+.buff-name {
+    color: rgb(159, 144, 255);
+}   
