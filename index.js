@@ -5,13 +5,12 @@ let exclusiveAbilities = false
 
 
 window.onload = () => {
-    console.log('hola')
-    axios.get('http://localhost:3200/weapons')
+    axios.get('https://splatoon-3-randomizer.onrender.com/weapons')
         .then(response => {
             weapons = response.data
         })
 
-    axios.get('http://localhost:3200/abilities')
+    axios.get('https://splatoon-3-randomizer.onrender.com/abilities')
         .then(response => {
             abilities = response.data
 
