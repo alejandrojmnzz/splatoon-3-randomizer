@@ -1,13 +1,3 @@
-const jsonServer = require('json-server');
-const server = jsonServer.create();
-const router = jsonServer.router('db.json'); // <== Will be created later
-const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 3200; // <== You can change the port
-
-server.use(middlewares);
-server.use(router);
-
-server.listen(port);
 
 let weapons = []
 let abilities = []
@@ -15,19 +5,20 @@ let exclusiveAbilities = false
 
 
 window.onload = () => {
-    axios.get('http://localhost:3000/weapons')
+    console.log('hola')
+    axios.get('http://localhost:3200/weapons')
         .then(response => {
             weapons = response.data
-
         })
 
-    axios.get('http://localhost:3000/abilities')
+    axios.get('http://localhost:3200/abilities')
         .then(response => {
             abilities = response.data
 
         })
 }
-const button = document.getElementById("randomize-button").onclick = randomize
+let button = document.getElementById('randomize-button')
+button.onclick = randomize
 
 function randomize() {
     
