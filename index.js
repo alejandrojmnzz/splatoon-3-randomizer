@@ -123,11 +123,8 @@ function randomize() {
             <p class="buff">${randomWeapon.sub.buff}</p>
         </div>
         `
-    } else {
-        document.getElementById('buff-description').innerHTML = ''
-    }
-
-    if (randomAbility.name == "Special Power Up") {
+    } 
+    else if (randomAbility.name == "Special Power Up") {
           document.getElementById('buff-description').innerHTML = `
         <div>
             <p class="buff-title">Effect on ${randomWeapon.special.name.en_US}</p>
