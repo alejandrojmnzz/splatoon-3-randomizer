@@ -3,6 +3,7 @@ let weapons = []
 let abilities = []
 let exclusiveAbilities = false
 
+const weaponBox = null
 
 window.onload = () => {
     axios.get('https://splatoon-3-randomizer.onrender.com/weapons')
@@ -20,7 +21,6 @@ let button = document.getElementById('randomize-button')
 button.onclick = randomize
 
 function randomize() {
-    
 
     const randomWeaponIndex = Math.floor(Math.random() * weapons.length)
     let randomAbility = {}
@@ -79,6 +79,7 @@ function randomize() {
         firstImage.src = `https://leanny.github.io/splat3/images/skill/${randomAbility["image-code"]}`
         firstImage.height = 126
         firstImage.width = 126
+        firstImage.alt = randomAbility.name
         document.getElementById("ability-image").appendChild(firstImage)
 
     }
@@ -89,6 +90,7 @@ function randomize() {
         firstImage.src = randomAbility["image-url"]
         firstImage.height = 126
         firstImage.width = 126
+        firstImage.alt = randomAbility.name
         document.getElementById("ability-image").appendChild(firstImage)
 
     }
@@ -103,6 +105,7 @@ function randomize() {
             secondImage.src = `https://leanny.github.io/splat3/images/skill/${secondAbility["image-code"]}`
             secondImage.height = 126
             secondImage.width = 126
+            secondImage.alt = secondAbility.name
             document.getElementById("ability-image").appendChild(secondImage)
         }
         
@@ -112,24 +115,21 @@ function randomize() {
             secondImage.src = secondAbility["image-url"]
             secondImage.height = 126
             secondImage.width = 126
+            secondImage.alt = secondAbility.name
             document.getElementById("ability-image").appendChild(secondImage)
         }
     }
 
     if (randomAbility.name == "Sub Power Up") {
         document.getElementById('buff-description').innerHTML = `
-        <div>
-            <p class="buff-title">Effect on ${randomWeapon.sub.name.en_US}</p>
-            <p class="buff">${randomWeapon.sub.buff}</p>
-        </div>
+        <p class="buff-title">Effect on ${randomWeapon.sub.name.en_US}</p>
+        <p class="buff">${randomWeapon.sub.buff}</p>
         `
     } 
     else if (randomAbility.name == "Special Power Up") {
           document.getElementById('buff-description').innerHTML = `
-        <div>
-            <p class="buff-title">Effect on ${randomWeapon.special.name.en_US}</p>
-            <p class="buff">${randomWeapon.special.buff}</p>
-        </div>
+        <p class="buff-title">Effect on ${randomWeapon.special.name.en_US}</p>
+        <p class="buff">${randomWeapon.special.buff}</p>
         `
     } else {
         document.getElementById('buff-description').innerHTML = ''
