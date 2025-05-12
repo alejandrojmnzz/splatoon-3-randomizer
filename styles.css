@@ -8,12 +8,20 @@
     src: url('fonts/BlitzBold.otf');
 }
 
-@media (width <= 600px) and (width > 300px) {
+@media (width <= 560px) {
+    .weapon-name {
+        width: 34.4rem;
+        min-width: auto !important;
+        max-width: auto !important;
+    }
     .weapon-box {
         width: 100%;
-        height: 200px;
-        padding-left: 15px !important;
-        padding-right: 15px !important;
+        height: 160px;
+        padding-left : 15px !important;
+        padding-right : 15px !important;
+        padding-bottom: 0 !important;
+        padding-top: 0 !important;
+
 
     }
     #weapon-image {
@@ -24,19 +32,24 @@
     #weapon-image > img {
         width: 120px;
         height: 120px;
+
+    }
+    .atribute-image {
+        border-radius: 23px !important;
+
     }
      .atribute-image > img {
         width: 35px;
         height: 35px;
     }
     .atribute-name {
-        width: 160px !important; 
+        width: 160px !important;
         font-size: 23px !important;
         margin-left: 8px !important;
     }
-  @media (width <= 350px) {
+  @media (width <= 360px) {
     .atribute-name {
-        width: 140px !important; 
+        width: 140px !important;
 
     }
 }
@@ -52,7 +65,7 @@
     position: relative;
     background-color: rgb(44, 44, 44);
     border-radius: 40px;
-    padding: 30px;    
+    padding: 30px;
 }
 
 .name-mark {
@@ -60,6 +73,7 @@
     width: 100%;
     height: 60px;
     top: 0;
+    left: 0;
     background-color: rgb(35, 35, 35);
     z-index: -1;
 }
@@ -75,11 +89,12 @@ p {
 
 .weapon-name {
     background-color:rgb(35, 35, 35);
-    width: 34.4rem;
+    min-width: 34.4rem; 
+    max-width: 34.4rem;
     height: 60px;
     padding-left: 10px;
     margin-bottom: 0;
-    font-size: 30px;
+    font-size: 25px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-top: 50px;
@@ -140,4 +155,7 @@ p {
 
     color: rgb(176, 176, 176);
     font-size: 15px;
+}
+.atribute-padding {
+    height: 10px;
 }
