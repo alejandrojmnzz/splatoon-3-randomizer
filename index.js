@@ -37,11 +37,9 @@ function randomize() {
         const randomAbilityIndex = Math.floor(Math.random() * abilities.length)
         randomAbility = abilities[randomAbilityIndex]
         if (randomAbility.exclusive == true) {
-            console.log(randomAbility)
             const generalAbilities = abilities.filter(ability => ability.exclusive == false)
             const randomAbilityIndex = Math.floor(Math.random() * generalAbilities.length)
             secondAbility = generalAbilities[randomAbilityIndex]
-            console.log(secondAbility)
         }
     }
 
