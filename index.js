@@ -126,6 +126,17 @@ function randomize() {
     } else {
         document.getElementById('buff-description').innerHTML = ''
     }
+
+    if (randomAbility.name == "Special Power Up") {
+          document.getElementById('buff-description').innerHTML = `
+        <div>
+            <p class="buff-title">Effect on ${randomWeapon.special.name.en_US}</p>
+            <p class="buff">${randomWeapon.special.buff}</p>
+        </div>
+        `
+    } else {
+        document.getElementById('buff-description').innerHTML = ''
+    }
     
     document.getElementById("weapon-name").innerHTML = weaponName
     document.getElementById("weapon-image").innerHTML = `<img width=170px height=170px src="https://jamesomckenna.github.io/SplatRandomiser3/dist/images/weapons/${weaponImage}.webp" />`

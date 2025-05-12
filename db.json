@@ -34,7 +34,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "52gal"
         },
@@ -71,7 +72,8 @@
                 "name": {
                     "en_US": "Splattercolor Screen",
                     "ja_JP": "スミナガシート"
-                }
+                },
+                "buff": "Increases throwing range and travel speed"
             },
             "reskin_of": "52gal_deco"
         },
@@ -109,7 +111,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "96gal"
         },
@@ -147,7 +150,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "96gal_deco"
         },
@@ -185,7 +189,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "bold"
         },
@@ -223,7 +228,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "bold_neo"
         },
@@ -261,7 +267,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "bottlegeyser"
         },
@@ -299,7 +306,8 @@
                 "name": {
                     "en_US": "Splattercolor Screen",
                     "ja_JP": "スミナガシート"
-                }
+                },
+                "buff": "Increases throwing range and travel speed"
             },
             "reskin_of": "bottlegeyser_foil"
         },
@@ -337,7 +345,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "sshooter"
         },
@@ -375,7 +384,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "jetsweeper"
         },
@@ -413,7 +423,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "jetsweeper_custom"
         },
@@ -451,7 +462,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "momiji"
         },
@@ -489,7 +501,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "nzap85"
         },
@@ -527,7 +540,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "nzap89"
         },
@@ -565,7 +579,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "sshooter_collabo"
         },
@@ -603,7 +618,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "sshooter"
         },
@@ -641,7 +657,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "prime"
         },
@@ -679,8 +696,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "prime_collabo"
         },
         {
@@ -717,7 +735,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "promodeler_mg"
         },
@@ -755,8 +774,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "promodeler_rg"
         },
         {
@@ -793,7 +813,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "sharp"
         },
@@ -831,7 +852,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "sharp_neo"
         },
@@ -869,7 +891,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "spaceshooter"
         },
@@ -907,7 +930,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "spaceshooter_collabo"
         },
@@ -945,7 +969,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "sshooter"
         },
@@ -983,7 +1008,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "sshooter_collabo"
         },
@@ -1021,7 +1047,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "wakaba"
         },
@@ -1059,7 +1086,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "clashblaster"
         },
@@ -1097,7 +1125,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "clashblaster_neo"
         },
@@ -1135,7 +1164,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "hotblaster"
         },
@@ -1173,7 +1203,8 @@
                 "name": {
                     "en_US": "Triple Splashdown",
                     "ja_JP": "ウルトラチャクチ"
-                }
+                },
+                "buff": "Increases damage radius and painting radius"
             },
             "reskin_of": "hotblaster_custom"
         },
@@ -1211,7 +1242,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "longblaster"
         },
@@ -1249,7 +1281,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "longblaster_custom"
         },
@@ -1287,7 +1320,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "nova"
         },
@@ -1325,7 +1359,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "nova_neo"
         },
@@ -1362,7 +1397,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "nova"
         },
@@ -1400,7 +1436,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "rapid"
         },
@@ -1438,7 +1475,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "rapid_deco"
         },
@@ -1476,7 +1514,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "rapid_elite"
         },
@@ -1514,7 +1553,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "rapid_elite_deco"
         },
@@ -1552,8 +1592,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "sblast91"
         },
         {
@@ -1590,7 +1631,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "sblast92"
         },
@@ -1628,7 +1670,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "h3reelgun"
         },
@@ -1666,7 +1709,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "h3reelgun_d"
         },
@@ -1704,7 +1748,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "l3reelgun"
         },
@@ -1742,7 +1787,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "l3reelgun_d"
         },
@@ -1780,7 +1826,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "dualsweeper"
         },
@@ -1818,7 +1865,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "dualsweeper_custom"
         },
@@ -1856,7 +1904,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "gaen_ff"
         },
@@ -1894,7 +1943,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "gaen_ff_custom"
         },
@@ -1932,8 +1982,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "kelvin525"
         },
         {
@@ -1970,7 +2021,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "kelvin525_deco"
         },
@@ -2008,7 +2060,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "maneuver"
         },
@@ -2046,7 +2099,8 @@
                 "name": {
                     "en_US": "Triple Splashdown",
                     "ja_JP": "ウルトラチャクチ"
-                }
+                },
+                "buff": "Increases damage radius and painting radius"
             },
             "reskin_of": "maneuver_collabo"
         },
@@ -2084,7 +2138,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "maneuver"
         },
@@ -2122,7 +2177,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "quadhopper_black"
         },
@@ -2160,7 +2216,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "quadhopper_white"
         },
@@ -2198,7 +2255,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "sputtery"
         },
@@ -2236,7 +2294,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "sputtery_hue"
         },
@@ -2274,7 +2333,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "carbon"
         },
@@ -2312,7 +2372,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "carbon_deco"
         },
@@ -2350,7 +2411,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "dynamo"
         },
@@ -2388,7 +2450,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "dynamo_tesla"
         },
@@ -2425,7 +2488,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "splatroller"
         },
@@ -2463,7 +2527,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "splatroller"
         },
@@ -2501,7 +2566,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "splatroller_collabo"
         },
@@ -2539,7 +2605,8 @@
                 "name": {
                     "en_US": "Tenta Missiles",
                     "ja_JP": "マルチミサイル"
-                }
+                },
+                "buff": "Increases size of targeting reticle and ink coverage of the explosions"
             },
             "reskin_of": "variableroller"
         },
@@ -2577,7 +2644,8 @@
                 "name": {
                     "en_US": "Splattercolor Screen",
                     "ja_JP": "スミナガシート"
-                }
+                },
+                "buff": "Increases throwing range and travel speed"
             },
             "reskin_of": "variableroller_foil"
         },
@@ -2615,7 +2683,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "wideroller"
         },
@@ -2653,7 +2722,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "wideroller_collabo"
         },
@@ -2692,7 +2762,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "fincent"
         },
@@ -2731,7 +2802,8 @@
                 "name": {
                     "en_US": "Tenta Missiles",
                     "ja_JP": "マルチミサイル"
-                }
+                },
+                "buff": "Increases size of targeting reticle and ink coverage of the explosions"
             },
             "reskin_of": "fincent_hue"
         },
@@ -2769,7 +2841,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "hokusai"
         },
@@ -2807,7 +2880,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "hokusai_hue"
         },
@@ -2845,7 +2919,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "hokusai"
         },
@@ -2883,7 +2958,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "pablo"
         },
@@ -2921,7 +2997,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "pablo_hue"
         },
@@ -2959,7 +3036,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "dentalwiper_mint"
         },
@@ -2997,7 +3075,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "dentalwiper_sumi"
         },
@@ -3035,7 +3114,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "drivewiper"
         },
@@ -3073,7 +3153,8 @@
                 "name": {
                     "en_US": "Tenta Missiles",
                     "ja_JP": "マルチミサイル"
-                }
+                },
+                "buff": "Increases size of targeting reticle and ink coverage of the explosions"
             },
             "reskin_of": "drivewiper_deco"
         },
@@ -3111,7 +3192,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "jimuwiper"
         },
@@ -3150,7 +3232,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "jimuwiper_hue"
         },
@@ -3188,7 +3271,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "jimuwiper"
         },
@@ -3226,7 +3310,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "bamboo14mk1"
         },
@@ -3264,7 +3349,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "bamboo14mk2"
         },
@@ -3302,7 +3388,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "liter4k"
         },
@@ -3340,7 +3427,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "liter4k_custom"
         },
@@ -3378,7 +3466,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "liter4k_scope"
         },
@@ -3416,7 +3505,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "liter4k_scope_custom"
         },
@@ -3453,7 +3543,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "splatcharger"
         },
@@ -3491,7 +3582,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "rpen_5b"
         },
@@ -3529,7 +3621,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "rpen_5h"
         },
@@ -3567,7 +3660,8 @@
                 "name": {
                     "en_US": "Tenta Missiles",
                     "ja_JP": "マルチミサイル"
-                }
+                },
+                "buff": "Increases size of targeting reticle and ink coverage of the explosions"
             },
             "reskin_of": "soytuber"
         },
@@ -3605,7 +3699,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "soytuber_custom"
         },
@@ -3643,7 +3738,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "splatcharger"
         },
@@ -3681,7 +3777,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "splatcharger_collabo"
         },
@@ -3719,7 +3816,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "splatscope"
         },
@@ -3757,7 +3855,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "splatscope_collabo"
         },
@@ -3795,7 +3894,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "squiclean_a"
         },
@@ -3833,7 +3933,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "squiclean_b"
         },
@@ -3871,7 +3972,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "bucketslosher"
         },
@@ -3909,7 +4011,8 @@
                 "name": {
                     "en_US": "Zipcaster",
                     "ja_JP": "ショクワンダー"
-                }
+                },
+                "buff": "Increases ink consumption per hook and per second, which increases duration"
             },
             "reskin_of": "bucketslosher_deco"
         },
@@ -3946,7 +4049,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "explosher"
         },
@@ -3984,7 +4088,8 @@
                 "name": {
                     "en_US": "Triple Splashdown",
                     "ja_JP": "ウルトラチャクチ"
-                }
+                },
+                "buff": "Increases damage radius and painting radius"
             },
             "reskin_of": "explosher_custom"
         },
@@ -4022,7 +4127,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "furo"
         },
@@ -4060,7 +4166,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "furo_deco"
         },
@@ -4098,7 +4205,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "hissen"
         },
@@ -4136,7 +4244,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "hissen_hue"
         },
@@ -4174,7 +4283,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "moprin"
         },
@@ -4212,7 +4322,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "moprin_d"
         },
@@ -4249,7 +4360,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "bucketslosher"
         },
@@ -4287,8 +4399,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "screwslosher"
         },
         {
@@ -4325,7 +4438,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "screwslosher_neo"
         },
@@ -4363,7 +4477,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "barrelspinner"
         },
@@ -4401,7 +4516,8 @@
                 "name": {
                     "en_US": "Kraken Royale",
                     "ja_JP": "テイオウイカ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "barrelspinner_deco"
         },
@@ -4439,7 +4555,8 @@
                 "name": {
                     "en_US": "Tacticooler",
                     "ja_JP": "エナジースタンド"
-                }
+                },
+                "buff": "Increases duration of the drink's effect"
             },
             "reskin_of": "examiner"
         },
@@ -4477,7 +4594,8 @@
                 "name": {
                     "en_US": "Crab Tank",
                     "ja_JP": "カニタンク"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "examiner_hue"
         },
@@ -4515,8 +4633,9 @@
                 "name": {
                     "en_US": "Booyah Bomb",
                     "ja_JP": "ナイスダマ"
-                }
-            },
+                },
+                "buff": "Decreases charging time"
+                        },
             "reskin_of": "hydra"
         },
         {
@@ -4553,7 +4672,8 @@
                 "name": {
                     "en_US": "Splattercolor Screen",
                     "ja_JP": "スミナガシート"
-                }
+                },
+                "buff": "Increases throwing range and travel speed"
             },
             "reskin_of": "hydra_custom"
         },
@@ -4591,7 +4711,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "kugelschreiber"
         },
@@ -4629,7 +4750,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "kugelschreiber_hue"
         },
@@ -4667,7 +4789,8 @@
                 "name": {
                     "en_US": "Ink Storm",
                     "ja_JP": "アメフラシ"
-                }
+                },
+                "buff": "Increases duration and throw range"
             },
             "reskin_of": "nautilus47"
         },
@@ -4705,7 +4828,8 @@
                 "name": {
                     "en_US": "Triple Splashdown",
                     "ja_JP": "ウルトラチャクチ"
-                }
+                },
+                "buff": "Increases damage radius and painting radius"
             },
             "reskin_of": "nautilus79"
         },
@@ -4743,7 +4867,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "barrelspinner"
         },
@@ -4781,7 +4906,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "splatspinner"
         },
@@ -4819,7 +4945,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "splatspinner_collabo"
         },
@@ -4857,7 +4984,8 @@
                 "name": {
                     "en_US": "Big Bubbler",
                     "ja_JP": "グレートバリア"
-                }
+                },
+                "buff": "Increases maximum HP and duration"
             },
             "reskin_of": "brella24mk1"
         },
@@ -4895,7 +5023,8 @@
                 "name": {
                     "en_US": "Triple Splashdown",
                     "ja_JP": "ウルトラチャクチ"
-                }
+                },
+                "buff": "Increases damage radius and painting radius"
             },
             "reskin_of": "brella24mk2"
         },
@@ -4933,7 +5062,8 @@
                 "name": {
                     "en_US": "Ink Vac",
                     "ja_JP": "キューインキ"
-                }
+                },
+                "buff": "Increases suction radius"
             },
             "reskin_of": "campingshelter"
         },
@@ -4971,7 +5101,8 @@
                 "name": {
                     "en_US": "Trizooka",
                     "ja_JP": "ウルトラショット"
-                }
+                },
+                "buff": "Increases duration, ink coverage and radius of the shots"
             },
             "reskin_of": "campingshelter_sorella"
         },
@@ -5009,7 +5140,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "parashelter"
         },
@@ -5047,7 +5179,8 @@
                 "name": {
                     "en_US": "Triple Inkstrike",
                     "ja_JP": "トリプルトルネード"
-                }
+                }, 
+                "buff": "Increases throwing range"
             },
             "reskin_of": "parashelter"
         },
@@ -5085,7 +5218,8 @@
                 "name": {
                     "en_US": "Inkjet",
                     "ja_JP": "ジェットパック"
-                }
+                },
+                "buff": "Increases duration and shot explosion radius"
             },
             "reskin_of": "parashelter_sorella"
         },
@@ -5123,7 +5257,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "spygadget"
         },
@@ -5161,7 +5296,8 @@
                 "name": {
                     "en_US": "Splattercolor Screen",
                     "ja_JP": "スミナガシート"
-                }
+                },
+                "buff": "Increases throwing range and travel speed"
             },
             "reskin_of": "spygadget_sorella"
         },
@@ -5199,7 +5335,8 @@
                 "name": {
                     "en_US": "Ultra Stamp",
                     "ja_JP": "ウルトラハンコ"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "furuido"
         },
@@ -5237,7 +5374,8 @@
                 "name": {
                     "en_US": "Wave Breaker",
                     "ja_JP": "ホップソナー"
-                }
+                },
+                "buff": "Increases maximum radius of the shockwaves"
             },
             "reskin_of": "furuido_custom"
         },
@@ -5275,7 +5413,8 @@
                 "name": {
                     "en_US": "Tenta Missiles",
                     "ja_JP": "マルチミサイル"
-                }
+                },
+                "buff": "Increases size of targeting reticle and ink coverage of the explosions"
             },
             "reskin_of": "lact450"
         },
@@ -5313,7 +5452,8 @@
                 "name": {
                     "en_US": "Reefslider",
                     "ja_JP": "サメライド"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "lact450_deco"
         },
@@ -5350,7 +5490,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "tristringer"
         },
@@ -5388,7 +5529,8 @@
                 "name": {
                     "en_US": "Killer Wail 5.1",
                     "ja_JP": "メガホンレーザー5.1ch"
-                }
+                },
+                "buff": "Increases duration"
             },
             "reskin_of": "tristringer"
         },
@@ -5426,7 +5568,8 @@
                 "name": {
                     "en_US": "Super Chump",
                     "ja_JP": "デコイチラシ"
-                }
+                },
+                "buff": "Increases explosion radius"
             },
             "reskin_of": "tristringer_collabo"
         }
