@@ -8,33 +8,41 @@
     src: url('fonts/BlitzBold.otf');
 }
 
-@media (width <= 600px) {
+@media (width <= 600px) and (width > 300px) {
     .weapon-box {
         width: 100%;
         height: 200px;
-        padding-left: 20px !important;
-        padding-right: 20px !important;
+        padding-left: 15px !important;
+        padding-right: 15px !important;
 
     }
     #weapon-image {
-        width: 150px;
-        height: 150px;
+        width: 130px;
+        height: 130px;
         margin-right: 10px !important;
     }
     #weapon-image > img {
-        width: 150px;
-        height: 150px;
+        width: 120px;
+        height: 120px;
     }
      .atribute-image > img {
-        width: 50px;
-        height: 50px;
+        width: 35px;
+        height: 35px;
     }
     .atribute-name {
-        width: 170px !important; 
+        width: 160px !important; 
+        font-size: 23px !important;
+        margin-left: 8px !important;
+    }
+  @media (width <= 350px) {
+    .atribute-name {
+        width: 140px !important; 
 
     }
-  
 }
+}
+
+
 
 .body {
     background-image: url('./splatoon3-pattern-02-1920x1080-1.jpg');
@@ -88,7 +96,6 @@ p {
     background-color: black;
     border-radius: 30px;
     padding: 10px;
-    margin-bottom: 10px;
 }
 
 .atribute-name {
